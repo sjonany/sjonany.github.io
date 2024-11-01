@@ -1,6 +1,7 @@
 # Chord extension notes
 Notes on how I remember various chord extensions.
 
+{% include musescore_style.html %}
 ## Table of Contents
 - [#9](##9)
 - [b9](#b9)
