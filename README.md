@@ -1,6 +1,6 @@
 Software engineer. Amateur Musican. Boulderer. Anime + video game watcher.
 <img src="https://cdn3.emoji.gg/emojis/85511-kirbyruns.gif" alt="Alt Text" width="50" height="50">
-### Writings
+### Writing
 - [My approach to life](https://dynalist.io/d/IfWvgrSkDIZuFvikXF9Z_1_V#z=P3g7-S2ECqFXHr1zFiyN2XyI)
 - [Blog](https://medium.com/@sjonany)
 
