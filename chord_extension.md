@@ -7,6 +7,7 @@ Notes on how I remember various chord extensions.
 
 ## #9
 Test content
+{% include musescore.html id="21423823" %}
 
 ## b9
 Test content
