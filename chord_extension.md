@@ -20,6 +20,6 @@ Where it's used:
   - Minor jazz lick: III aug -> vi 9
   - Someday my prince will come: I -> III aug -> IV
 - V
-  - [Super mario world ending]([url](https://www.youtube.com/watch?v=gNcIAC30mWI))
+  - [Super mario world ending](https://www.youtube.com/watch?v=gNcIAC30mWI)
 
 {% include musescore.html id="21543190" %}
