@@ -11,8 +11,6 @@ Software engineer. Amateur Musican. Boulderer. Anime + video game watcher.
 - [Indoor bouldering](https://www.youtube.com/watch?v=7q1eiJ680_U&t=55s) fun with friends
 - [Outdoor bouldering](https://kaya-app.kayaclimb.com/user/mimimi)
 
-### Professional
-
 ### Music
 - I like to make [covers of video game music](https://www.youtube.com/watch?v=iKrX-FXY6YY)
 - Sometimes I take [jazz lessons](https://www.youtube.com/watch?v=yb1JcCA2AYw)
