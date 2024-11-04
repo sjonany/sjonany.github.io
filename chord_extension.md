@@ -5,6 +5,7 @@ Notes on how I remember various chords.
 
 - [#5 / Augmented](#5-augmented)
 - [Half diminished](#half-diminished)
+- [Full diminished](#full-diminished)
 
 <!-- TOC end -->
 
@@ -38,3 +39,16 @@ Where it's used:
   - [Black orpheus](https://youtu.be/R4aJWz0ysDk?si=dskFGacs9JQzBk8L&t=15)
 
 {% include musescore.html id="21582682" %}
+
+<!-- TOC --><a name="full-diminished"></a>
+## Full diminished
+Intuition: Persona sad song.
+
+Where it's used:
+- vib, to resolve to vi. Kinda like substituting III before vi.
+  - [Persona 3 - living with determination](https://www.youtube.com/watch?v=q-sqsBi3-mk)
+- iib, resolve to ii. Aha, this is another pattern of "half-step below full diminished as a setup". Also, a substitute for VI to ii. 
+  - [Sunday morning](https://youtu.be/S2Cti12XBw4?si=1pQqDK4LGrdb19iD)
+- IV#. A vamp to follow IV to build tension. See the sheet. I don't remember which video game song, but this sounds familiar.
+
+{% include musescore.html id="21583306" %}
