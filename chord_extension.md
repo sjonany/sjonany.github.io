@@ -1,8 +1,10 @@
-# Chord extension notes
-Notes on how I remember various chord extensions.
+# Chord notes
+Notes on how I remember various chords.
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
 - [#5 / Augmented](#5-augmented)
+- [Half diminished](#half-diminished)
 
 <!-- TOC end -->
 
@@ -23,3 +25,16 @@ Where it's used:
   - [Super mario world ending](https://www.youtube.com/watch?v=gNcIAC30mWI)
 
 {% include musescore.html id="21543190" %}
+
+<!-- TOC --><a name="half-diminished"></a>
+## Half diminished
+Intuition: Minor 251 setup.
+
+Where it's used:
+- IV# at the end of line cliches.
+  - [Sootopolis city](https://youtu.be/xmMT6Pz0vqw?si=5PbfZ961JwbuCIdr&t=10)
+  - [K project ending](https://youtu.be/OpFUQBrPlqo?si=Sym-DH6YqU4zGBOa&t=20)
+- ii in minor 251.  
+  - [Black orpheus](https://youtu.be/R4aJWz0ysDk?si=dskFGacs9JQzBk8L&t=15)
+
+{% include musescore.html id="21582682" %}
