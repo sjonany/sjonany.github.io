@@ -1,4 +1,4 @@
-Software engineer. Amateur Musican. Boulderer. Anime + video game watcher.
+Software engineer. Amateur Musician. Boulderer. Anime + video game watcher.
 <img src="https://cdn3.emoji.gg/emojis/85511-kirbyruns.gif" alt="Alt Text" width="50" height="50">
 
 [Resume](https://docs.google.com/document/d/1z6G0CjMhAkKeqCyggJOCLFiD7IhwnRPKefQbRqXC4DU/edit?tab=t.0)
