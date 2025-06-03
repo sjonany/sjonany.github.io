@@ -4,7 +4,7 @@ Software engineer. Amateur musician. Boulderer. Anime + video game watcher.
 [Resume](https://docs.google.com/document/d/1z6G0CjMhAkKeqCyggJOCLFiD7IhwnRPKefQbRqXC4DU/edit?tab=t.0)
 
 ### Writing
-- [My approach to life](https://dynalist.io/d/IfWvgrSkDIZuFvikXF9Z_1_V#z=P3g7-S2ECqFXHr1zFiyN2XyI)
+- [My approach to life](https://dynalist.io/d/IfWvgrSkDIZuFvikXF9Z_1_V)
 - [Blog](https://medium.com/@sjonany)
 
 ### Bouldering
