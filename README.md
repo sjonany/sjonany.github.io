@@ -6,6 +6,7 @@ Software engineer. Amateur musician. Boulderer. Anime + video game watcher.
 ### Writing
 - [My approach to life](https://dynalist.io/d/IfWvgrSkDIZuFvikXF9Z_1_V)
 - [Blog](https://medium.com/@sjonany)
+- [Computational kindness](https://www.youtube.com/watch?v=0OCmHuxWkks)
 
 ### Bouldering
 - [Indoor bouldering](https://www.youtube.com/watch?v=7q1eiJ680_U&t=55s) fun with friends
@@ -19,6 +20,6 @@ Software engineer. Amateur musician. Boulderer. Anime + video game watcher.
 - I made a [troll song](https://youtu.be/Bau4niLvhbc) for a friend called "breath baiting"
 
 ### Side projects
-A mission that resonates with me is to help humans **consume more feelable text**. Here are a few fun projects I did in this space:
-- Android app that auto-suggests funny text respones. [Github](https://github.com/sjonany/comedy-coach-app). [Blog post](https://medium.com/@sjonany/can-ai-be-funny-an-exploration-with-texting-on-android-and-chatgpt-911af17f9b00). [Writeup](https://docs.google.com/document/d/1T3rWOU-3i9XD_WuCVmVEdFnNKUTnSM8bSeO3da9JzdA/edit?tab=t.0)
+Here are some fun side projects I did more recently:
+- Android app that auto-suggests funny text responses. [Github](https://github.com/sjonany/comedy-coach-app). [Blog post](https://medium.com/@sjonany/can-ai-be-funny-an-exploration-with-texting-on-android-and-chatgpt-911af17f9b00). [Writeup](https://docs.google.com/document/d/1T3rWOU-3i9XD_WuCVmVEdFnNKUTnSM8bSeO3da9JzdA/edit?tab=t.0)
 - Chrome extension for reading webpages w/ an auto-scroller. [Github](https://github.com/benfrancis314/reading_project). [Extension](https://chromewebstore.google.com/detail/readerease/bohihapocaipjlglegpjpknckgioggom?hl=en-US)
