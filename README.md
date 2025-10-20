@@ -5,7 +5,7 @@ Software engineer. Amateur musician. Boulderer. Anime + video game watcher.
 
 ### Writing
 - [My approach to life](https://dynalist.io/d/IfWvgrSkDIZuFvikXF9Z_1_V)
-- [On spirituality](https://medium.com/@sjonany/a-gypsys-prayer-b5b977547ec2).
+- [On spirituality](https://medium.com/@sjonany/a-gypsys-prayer-b5b977547ec2)
 - [On work](https://medium.com/@sjonany/monthly-learning-may-2025-focusing-on-the-undervalued-llm-correctness-music-production-e37028eaed37)
 - [Computational kindness](https://www.youtube.com/watch?v=0OCmHuxWkks)
 
