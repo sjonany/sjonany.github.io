@@ -23,4 +23,4 @@ Software engineer. Amateur musician. Boulderer. Anime + video game watcher.
 ### Side projects
 Here are some fun side projects I did in the past:
 - Android app that auto-suggests funny text responses. [Github](https://github.com/sjonany/comedy-coach-app). [Blog post](https://medium.com/@sjonany/can-ai-be-funny-an-exploration-with-texting-on-android-and-chatgpt-911af17f9b00). [Writeup](https://docs.google.com/document/d/1T3rWOU-3i9XD_WuCVmVEdFnNKUTnSM8bSeO3da9JzdA/edit?tab=t.0)
-- Chrome extension for reading webpages w/ an auto-scroller. [Github](https://github.com/benfrancis314/reading_project). [Extension](https://chromewebstore.google.com/detail/readerease/bohihapocaipjlglegpjpknckgioggom?hl=en-US)
+- Chrome extension for reading webpages w/ an auto-scroller that I built with my friend Ben. [Github](https://github.com/benfrancis314/reading_project). [Extension](https://chromewebstore.google.com/detail/readerease/bohihapocaipjlglegpjpknckgioggom?hl=en-US)
