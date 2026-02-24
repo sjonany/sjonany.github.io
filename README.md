@@ -5,9 +5,12 @@ Software engineer. Amateur musician. Boulderer. Anime + video game watcher.
 
 ### Writing
 - [My approach to life](https://dynalist.io/d/IfWvgrSkDIZuFvikXF9Z_1_V)
-- [On spirituality](https://medium.com/@sjonany/a-gypsys-prayer-b5b977547ec2)
-- [On work](https://medium.com/@sjonany/monthly-learning-may-2025-focusing-on-the-undervalued-llm-correctness-music-production-e37028eaed37)
 - [Computational kindness](https://www.youtube.com/watch?v=0OCmHuxWkks)
+- Misc thoughts
+  - [Impact vs joy](https://medium.com/@sjonany/on-impact-and-joy-769ace3880dd)
+  - [Choose without suffering](https://medium.com/@sjonany/choose-without-suffering-and-with-gratitude-88b8af25fe10)
+  - [Focus on the undervalued](https://medium.com/@sjonany/monthly-learning-may-2025-focusing-on-the-undervalued-llm-correctness-music-production-e37028eaed37)
+  - [On spirituality](https://medium.com/@sjonany/a-gypsys-prayer-b5b977547ec2)
 
 ### Bouldering
 - [Indoor bouldering](https://www.youtube.com/watch?v=7q1eiJ680_U&t=55s) fun with friends
