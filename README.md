@@ -7,6 +7,7 @@ Software engineer. Amateur musician. Boulderer. Anime + video game watcher.
 - [My approach to life](https://dynalist.io/d/IfWvgrSkDIZuFvikXF9Z_1_V)
 - [Computational kindness](https://www.youtube.com/watch?v=0OCmHuxWkks)
 - Misc thoughts
+  - [Why you still need to learn even when AI can do anything](https://medium.com/p/9cc44373ce9c?postPublishedType=initial)
   - [Impact vs joy](https://medium.com/@sjonany/on-impact-and-joy-769ace3880dd)
   - [Choose without suffering](https://medium.com/@sjonany/choose-without-suffering-and-with-gratitude-88b8af25fe10)
   - [Focus on the undervalued](https://medium.com/@sjonany/monthly-learning-may-2025-focusing-on-the-undervalued-llm-correctness-music-production-e37028eaed37)
