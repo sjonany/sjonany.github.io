@@ -10,6 +10,7 @@ Software engineer. Amateur musician. Boulderer. Anime + video game watcher.
   - [Why you still need to learn even when AI can do anything](https://medium.com/p/9cc44373ce9c?postPublishedType=initial)
   - [Impact vs joy](https://medium.com/@sjonany/on-impact-and-joy-769ace3880dd)
   - [Choose without suffering](https://medium.com/@sjonany/choose-without-suffering-and-with-gratitude-88b8af25fe10)
+  - [Work happiness](https://medium.com/@sjonany/work-happiness-024029eea840)
   - [Focus on the undervalued](https://medium.com/@sjonany/monthly-learning-may-2025-focusing-on-the-undervalued-llm-correctness-music-production-e37028eaed37)
   - [On spirituality](https://medium.com/@sjonany/a-gypsys-prayer-b5b977547ec2)
 
