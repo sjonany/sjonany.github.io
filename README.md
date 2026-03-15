@@ -4,15 +4,18 @@ Software engineer. Amateur musician. Boulderer. Anime + video game watcher.
 [Resume](https://docs.google.com/document/d/1z6G0CjMhAkKeqCyggJOCLFiD7IhwnRPKefQbRqXC4DU/edit?tab=t.0)
 
 ### Writing
-- [My approach to life](https://dynalist.io/d/IfWvgrSkDIZuFvikXF9Z_1_V)
-- [Computational kindness](https://www.youtube.com/watch?v=0OCmHuxWkks)
-- Misc thoughts
-  - [Why you still need to learn even when AI can do anything](https://medium.com/p/9cc44373ce9c?postPublishedType=initial)
-  - [Impact vs joy](https://medium.com/@sjonany/on-impact-and-joy-769ace3880dd)
+- Life
+  - [Mindset](https://dynalist.io/d/IfWvgrSkDIZuFvikXF9Z_1_V)
   - [Choose without suffering](https://medium.com/@sjonany/choose-without-suffering-and-with-gratitude-88b8af25fe10)
+  - [On spirituality](https://medium.com/@sjonany/a-gypsys-prayer-b5b977547ec2)
+- Work
+  - [Computational kindness (talk)](https://www.youtube.com/watch?v=0OCmHuxWkks)
+  - [Impact vs joy](https://medium.com/@sjonany/on-impact-and-joy-769ace3880dd)
   - [Work happiness](https://medium.com/@sjonany/work-happiness-024029eea840)
   - [Focus on the undervalued](https://medium.com/@sjonany/monthly-learning-may-2025-focusing-on-the-undervalued-llm-correctness-music-production-e37028eaed37)
-  - [On spirituality](https://medium.com/@sjonany/a-gypsys-prayer-b5b977547ec2)
+- Other thoughts
+  - [Why you still need to learn even when AI can do anything](https://medium.com/p/9cc44373ce9c?postPublishedType=initial)
+  - [Why AI Won’t Kill CS 101](https://medium.com/@sjonany/humans-will-still-need-to-learn-how-to-code-even-with-ai-698b883658af)
 
 ### Bouldering
 - [Indoor bouldering](https://www.youtube.com/watch?v=7q1eiJ680_U&t=55s) fun with friends
