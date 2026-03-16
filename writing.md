@@ -29,6 +29,7 @@
 - [Improving RAG performance](https://medium.com/@sjonany/improving-rag-performance-4acbf4c6f238)
 - [Building Reliable LLM-based apps: The “Good Enough” Trap](https://medium.com/@sjonany/building-reliable-llm-based-apps-the-good-enough-trap-f2c23a952219)
 - [AI-executable natural-language contracts](https://blog.blockmagnates.com/ai-executable-natural-language-contracts-1669373b1428)
+- [Can AI be funny? An exploration with texting on Android and ChatGPT](https://medium.com/@sjonany/can-ai-be-funny-an-exploration-with-texting-on-android-and-chatgpt-911af17f9b00)
 
 #### Privacy
 - [Chrome extensions can steal your data — what you can do to mitigate this](https://medium.com/@sjonany/chrome-extensions-can-steal-your-data-what-you-can-do-to-mitigate-this-9c66c81993ec)
