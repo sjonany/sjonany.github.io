@@ -22,11 +22,12 @@
 ### Computing
 
 #### LLM
+- [Practical hallucination mitigation strategies](https://medium.com/@sjonany/practical-hallucination-mitigation-strategies-771ed64b8285)
+- [Improving RAG performance](https://medium.com/@sjonany/improving-rag-performance-4acbf4c6f238)
 - [Transformers for software engineers (in Python)](https://medium.com/@sjonany/transformers-for-software-engineers-in-python-1d5b287aadc5)
 - [Transformers QK, OV, induction circuit](https://medium.com/@sjonany/transformers-qk-ov-induction-head-ddd3e4d9d73e)
 - [Transformers doing math](https://medium.com/@sjonany/transformers-doing-math-e544b8486ff2)
 - [Mechanistic Interpretability — first look](https://medium.com/@sjonany/mechanistic-interpretability-first-look-bc62d2120c2f)
-- [Improving RAG performance](https://medium.com/@sjonany/improving-rag-performance-4acbf4c6f238)
 - [Building Reliable LLM-based apps: The “Good Enough” Trap](https://medium.com/@sjonany/building-reliable-llm-based-apps-the-good-enough-trap-f2c23a952219)
 - [AI-executable natural-language contracts](https://blog.blockmagnates.com/ai-executable-natural-language-contracts-1669373b1428)
 - [Can AI be funny? An exploration with texting on Android and ChatGPT](https://medium.com/@sjonany/can-ai-be-funny-an-exploration-with-texting-on-android-and-chatgpt-911af17f9b00)
