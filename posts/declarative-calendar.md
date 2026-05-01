@@ -6,6 +6,7 @@ So! With the power vested in me through vibes, I finally got around to creating 
 Repo here: [https://github.com/sjonany/Declarative-Calendar-demo-](https://github.com/sjonany/Declarative-Calendar-demo-)
 
 
-
-https://github.com/user-attachments/assets/8dc2ec8d-018f-4060-a4d7-280d502f8689
-
+<video controls width="100%">
+  <source src="https://github.com/user-attachments/assets/8dc2ec8d-018f-4060-a4d7-280d502f8689" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
