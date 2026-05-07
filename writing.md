@@ -15,6 +15,10 @@
 - [New work mindset at Snowflake❄️](https://medium.com/@sjonany/new-work-mindset-at-snowflake-%EF%B8%8F-1346f0fa6edc)
 - [Sabbatical 3-month update](https://medium.com/@sjonany/sabbatical-3-month-update-aacc0a37c6ae)
 
+### Book notes
+- [Hell Yeah or No - Derek Sivers](posts/hell-yeah-or-no-derek-sivers.md)
+- More on [medium](https://medium.com/@sjonany)
+
 ### Education
 - [Why you still need to learn even when AI can do anything](https://medium.com/p/9cc44373ce9c?postPublishedType=initial)
 - [Why AI Won’t Kill CS 101](https://medium.com/@sjonany/humans-will-still-need-to-learn-how-to-code-even-with-ai-698b883658af)
