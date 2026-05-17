@@ -21,7 +21,8 @@
 
 ### Education
 - [Why you still need to learn even when AI can do anything](https://medium.com/p/9cc44373ce9c?postPublishedType=initial)
-- [Why AI Won’t Kill CS 101](https://medium.com/@sjonany/humans-will-still-need-to-learn-how-to-code-even-with-ai-698b883658af)
+- [Why AI won’t kill CS 101](https://medium.com/@sjonany/humans-will-still-need-to-learn-how-to-code-even-with-ai-698b883658af)
+- [Why we need in-person exams](posts/why-we-need-in-person-exams.md)
 
 ### Computing
 
