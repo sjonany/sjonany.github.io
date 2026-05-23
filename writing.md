@@ -16,6 +16,7 @@
 - [Sabbatical 3-month update](https://medium.com/@sjonany/sabbatical-3-month-update-aacc0a37c6ae)
 
 ### Book notes
+- [A World Without Work - Daniel Susskind](posts/a-world-without-work-daniel-susskind.md)
 - [Hell Yeah or No - Derek Sivers](posts/hell-yeah-or-no-derek-sivers.md)
 - More on [medium](https://medium.com/@sjonany)
 
