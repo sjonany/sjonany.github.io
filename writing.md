@@ -25,6 +25,7 @@
 - [Why AI won’t kill CS 101](https://medium.com/@sjonany/humans-will-still-need-to-learn-how-to-code-even-with-ai-698b883658af)
 - [Why we need in-person exams](posts/why-we-need-in-person-exams.md)
 - [A CS student's job hunt in 2026: an honest playbook](posts/a-cs-students-job-hunt-in-2026-an-honest-playbook.md)
+- [Transitioning to teaching](posts/transitioning-to-teaching.md)
 
 ### Computing
 
