@@ -9,7 +9,7 @@
 - [How I spend my time](https://medium.com/@sjonany/how-i-spend-my-time-aba6bdc3388)
 - [Focus on the undervalued](https://medium.com/@sjonany/monthly-learning-may-2025-focusing-on-the-undervalued-llm-correctness-music-production-e37028eaed37)
 - [Work happiness](https://medium.com/@sjonany/work-happiness-024029eea840)
-- [Impact vs joy](https://medium.com/@sjonany/on-impact-and-joy-769ace3880dd)
+- [Impact vs joy](posts/on-impact-and-joy.md)
 - [Figuring out what to do with my “career”](https://medium.com/@sjonany/figuring-out-what-to-do-with-my-career-d4fdb547a132)
 - [Why I quit Google (the second time)❄️](https://medium.com/@sjonany/why-i-quit-google-the-second-time-%EF%B8%8F-f7a0a383f4ca)
 - [New work mindset at Snowflake❄️](https://medium.com/@sjonany/new-work-mindset-at-snowflake-%EF%B8%8F-1346f0fa6edc)
@@ -24,14 +24,14 @@
 - [Transitioning to teaching](posts/transitioning-to-teaching.md)
 - [A CS student's job hunt in 2026: an honest playbook](posts/a-cs-students-job-hunt-in-2026-an-honest-playbook.md)
 - [Why we need in-person exams](posts/why-we-need-in-person-exams.md)
-- [Why AI won’t kill CS 101](https://medium.com/@sjonany/humans-will-still-need-to-learn-how-to-code-even-with-ai-698b883658af)
-- [Why you still need to learn even when AI can do anything](https://medium.com/p/9cc44373ce9c?postPublishedType=initial)
+- [Why AI won’t kill CS 101](posts/why-ai-wont-kill-cs-101.md)
+- [Why you still need to learn even when AI can do anything](posts/why-you-still-need-to-learn-even-when-ai-can-do-anything.md)
 
 ### Computing
 
 #### LLM
 - [Practical hallucination mitigation strategies](https://medium.com/@sjonany/practical-hallucination-mitigation-strategies-771ed64b8285)
-- [Improving RAG performance](https://medium.com/@sjonany/improving-rag-performance-4acbf4c6f238)
+- [Improving RAG performance](posts/improving-rag-performance.md)
 - [Transformers for software engineers (in Python)](https://medium.com/@sjonany/transformers-for-software-engineers-in-python-1d5b287aadc5)
 - [Transformers QK, OV, induction circuit](https://medium.com/@sjonany/transformers-qk-ov-induction-head-ddd3e4d9d73e)
 - [Transformers doing math](https://medium.com/@sjonany/transformers-doing-math-e544b8486ff2)

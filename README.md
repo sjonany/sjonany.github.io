@@ -8,9 +8,9 @@ I like to think, and write about said thinking.
 Here are some recent writings:
   - [Mindset](https://dynalist.io/d/IfWvgrSkDIZuFvikXF9Z_1_V)
   - [Computational kindness (talk)](https://www.youtube.com/watch?v=0OCmHuxWkks)
-  - [Impact vs joy](https://medium.com/@sjonany/on-impact-and-joy-769ace3880dd)
-  - [Why you still need to learn even when AI can do anything](https://medium.com/p/9cc44373ce9c)
-  - [Improving RAG performance](https://medium.com/@sjonany/improving-rag-performance-4acbf4c6f238)
+  - [Impact vs joy](posts/on-impact-and-joy.md)
+  - [Why you still need to learn even when AI can do anything](posts/why-you-still-need-to-learn-even-when-ai-can-do-anything.md)
+  - [Improving RAG performance](posts/improving-rag-performance.md)
 
 And more [here](writing.md)
 
