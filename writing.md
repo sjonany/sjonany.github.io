@@ -21,11 +21,11 @@
 - More on [medium](https://medium.com/@sjonany)
 
 ### Education
-- [Why you still need to learn even when AI can do anything](https://medium.com/p/9cc44373ce9c?postPublishedType=initial)
-- [Why AI won’t kill CS 101](https://medium.com/@sjonany/humans-will-still-need-to-learn-how-to-code-even-with-ai-698b883658af)
-- [Why we need in-person exams](posts/why-we-need-in-person-exams.md)
-- [A CS student's job hunt in 2026: an honest playbook](posts/a-cs-students-job-hunt-in-2026-an-honest-playbook.md)
 - [Transitioning to teaching](posts/transitioning-to-teaching.md)
+- [A CS student's job hunt in 2026: an honest playbook](posts/a-cs-students-job-hunt-in-2026-an-honest-playbook.md)
+- [Why we need in-person exams](posts/why-we-need-in-person-exams.md)
+- [Why AI won’t kill CS 101](https://medium.com/@sjonany/humans-will-still-need-to-learn-how-to-code-even-with-ai-698b883658af)
+- [Why you still need to learn even when AI can do anything](https://medium.com/p/9cc44373ce9c?postPublishedType=initial)
 
 ### Computing
 

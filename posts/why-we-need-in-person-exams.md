@@ -1,4 +1,5 @@
 # Why we need in-person exams
+*Published 2026-05-17*
 
 We established previously that even with AI, humans should likely [still need to learn CS 101](https://medium.com/@sjonany/humans-will-still-need-to-learn-how-to-code-even-with-ai-698b883658af). Now, we claim that any graded course should have **in-person exams.** Let’s build the claim step by step!
 
