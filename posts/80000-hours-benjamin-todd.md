@@ -7,7 +7,7 @@ To find a fulfilling career, get good at skills that help others. Passion will t
 In the meantime though, here is an excerpt that I loved on job searching.
 > Your first job search may be one of the hardest things you've ever done . You may have never been rejected thirty times in a row before . It can involve months of work . And you may have to do most of it alone . It can make online dating look easy . This means you'll need to throw every motivational technique out there at it . The most useful is to pair up with someone else who's job - hunting .
 
-[Here](https://www.goodreads.com/book/show/250014637-80-000-hours) is the book link. More quotes below.
+[Here](https://www.goodreads.com/book/show/250014637-80-000-hours) is the book link. More quotes below. 
 
 ## Applicable to me
 **Job search checklist.** Revisit this [making career decisions](https://80000hours.org/career-decision/article/) page when I want to find a job again.
@@ -77,3 +77,5 @@ See the 5 qualities [here](https://80000hours.org/career-guide/dream-job/).
 **PhDs ~ STDs.** PhD programmes can be demoralizing . A survey in Nature found 41 % of graduate students had ' moderate to severe ' anxiety , and 39 % had moderate to severe depression , compared to 6 % of the general public . According to standard DALY weightings , in terms of years of health lost , this makes graduate school a public health hazard comparable to all STDs combined . 
 
 **Do impressive work.** the best career capital doesn't come from either of these . It comes from doing impressive work . Doing impressive work stretches you , builds your reputation , and allows you to make connections with other high achievers . In fact , extreme enough success in almost any field can lead to connections , fame , influence and wealth that can be directed towards impactful aims in the future . If there's a field – or even a hobby – where you think you have a chance of high achievement , put it in your shortlist of options for career capital , even if it's not immediately related to doing good .
+
+*Comment on [substack](https://substack.com/@stephenjonany/note/c-268385367?r=20ny80&utm_source=notes-share-action&utm_medium=web)*
