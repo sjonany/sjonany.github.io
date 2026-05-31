@@ -3,6 +3,10 @@
 
 It's harder to get hired as a junior engineer now than ever. There is lower demand (for juniors, but not necessarily for senior engineers) and more supply (i.e. competition). Cite: [LinkedIn Jan 2026](https://economicgraph.linkedin.com/content/dam/me/economicgraph/en-us/PDF/linkedIn-labor-market-report-building-a-future-of-work-that-works-jan-2026.pdf): "Record Computer Science (CS) colliding with a cooling hiring for entry-level software engineers (SWE)." The environment is harsher, so you have to be more intentional and work harder than your seniors did. Realistically, expect 100+ applications, lots of rejection, and a search that takes months. This is the norm, not a sign you're doing it wrong. With that in mind, here is an updated list of advice I would give to myself if I were a CS junior today.
 
+**EDIT (5/31/2026)**: 80000hours.org has this awesome [in-depth guide](https://80000hours.org/career-guide/how-to-get-a-job/). I especially love this section on motivation:
+> Your first job search may be one of the hardest things you’ve ever done. You may have never been rejected 30 times in a row before. It can involve months of work. And you may have to do most of it alone. It can make online dating look easy.
+> This means you’ll need to throw every [motivational technique](https://80000hours.org/career-guide/how-to-be-successful/#how-to-become-more-motivated) out there at it. The most useful is to pair up with someone else who’s job hunting.
+
 ## Commit to daily habits
 If you take away one thing from this post, take **5 minutes** to do the following. (1) Schedule two recurring **30-minute** blocks on your calendar every day — one for applying, one for upskilling. (2) Create 2 Google Docs to track action items for each session. For now, each doc should have only these two items: (1) fill in the list with items from this post (2) reorder by priority based on where you're at and which jobs you're targeting.
 
