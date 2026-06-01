@@ -14,6 +14,8 @@ Here are some recent writings:
 
 And more [here](writing.md)
 
+I also re-post my writings to these other platforms: [substack](https://stephenjonany.substack.com/), [medium](https://medium.com/@sjonany)
+
 ### Bouldering
 - [Indoor bouldering](https://www.youtube.com/watch?v=7q1eiJ680_U&t=55s) fun with friends
 - [Outdoor bouldering](https://kaya-app.kayaclimb.com/user/mimimi)
