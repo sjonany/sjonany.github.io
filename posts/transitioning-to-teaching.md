@@ -28,3 +28,5 @@ Nope. I still love building software, and will likely do it for a long, long tim
 
 ## Ending words
 This is all written before I start the teaching position, so I'm also looking forward to seeing how I feel after my first quarter of teaching. That's for end-of-the-year Stephen to reflect on! 
+
+*Comment via: [medium](https://medium.com/@sjonany/transitioning-to-teaching-1c38380c74c0), [substack](https://stephenjonany.substack.com/p/from-software-to-teaching), [linkedin](https://www.linkedin.com/pulse/transitioning-teaching-stephen-jonany-xdwqc)*

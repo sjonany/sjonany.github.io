@@ -29,3 +29,5 @@ Before handing your 10-year-old the lamp (with a clawdbot sticker on it), make s
 **CS education?** How deep down the mechanistic level does one need to shape one’s want? What kind of wants would require one to go through CS undergrad education and learn how to read Python code? See [this post](why-ai-wont-kill-cs-101.md).
 
 **Another thought: Learning to shape your values.** To blindly accept AI-generated work before thinking carefully about your want is to blindly accept an alien value.
+
+*Comment via: [medium](https://medium.com/@sjonany/why-you-still-need-to-learn-even-when-ai-can-do-anything-9cc44373ce9c), [substack](https://stephenjonany.substack.com/p/why-you-still-need-to-learn-even), [linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7434295914866884608/)*

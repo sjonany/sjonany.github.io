@@ -30,3 +30,5 @@ Because AI might be malicious / have poor implementations. The argument here is 
 - In the more immediate future, where AI still makes human-correctable mistakes, this argument holds. Clawdbot is a good example — It is useful for most to understand common security concepts, and guide the AI to provide a safer implementation.
 
 Because there are some use cases where you have to go down to the level of precision of code to achieve what you want. This I am less sure of. For most design decisions, I probably don’t need to go down to the level of for loops to dictate my preferences. I suspect for most design decisions I make, I could have just used a lot of vocab from my data structure and algorithms class without even mentioning the word “for loop”.
+
+*Comment via: [medium](https://medium.com/@sjonany/humans-will-still-need-to-learn-how-to-code-even-with-ai-698b883658af), [substack](https://stephenjonany.substack.com/p/why-ai-wont-kill-cs-101), [linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7437678161921830912/)*

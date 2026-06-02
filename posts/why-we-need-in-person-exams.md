@@ -30,3 +30,5 @@ As a fun brainstorming exercise, if I have a reasonable budget from the teaching
 - Both of these recordings are linked to the exam-taking platform, such that if the platform detects that one of the recordings is malfunctioning, we will pause the exam and tell the student to fix it.
 
 But honestly, if I’m suddenly forced to teach an online class, I would just use an existing platform like [proctorio](https://proctorio.com/products/online-proctoring).
+
+*Comment via: [medium](https://medium.com/@sjonany/why-we-need-in-person-exams-a242bf42efc6), [substack](https://stephenjonany.substack.com/p/why-we-need-in-person-exams), [linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7461810039847170048/)*
