@@ -10,55 +10,77 @@
   url: /posts/80000-hours-benjamin-todd.html
   created: 2026-05-31
   tags: [book-notes]
-
 - title: "Transitioning to teaching"
   url: /posts/transitioning-to-teaching.html
   created: 2026-05-29
-  tags: [education]
-
+  tags: [education, life-reflection]
 - title: "A World Without Work - Daniel Susskind"
   url: /posts/a-world-without-work-daniel-susskind.html
   created: 2026-05-23
   tags: [book-notes]
-
 - title: "A CS student's job hunt in 2026: an honest playbook"
   url: /posts/a-cs-students-job-hunt-in-2026-an-honest-playbook.html
   created: 2026-05-20
   updated: 2026-05-31
   tags: [education]
-
 - title: "Why we need in-person exams"
   url: /posts/why-we-need-in-person-exams.html
   created: 2026-05-17
   tags: [education]
-
 - title: "Hell Yeah or No - Derek Sivers"
   url: /posts/hell-yeah-or-no-derek-sivers.html
   created: 2026-05-06
   tags: [book-notes]
-
 - title: "Declarative Calendar"
   url: /posts/declarative-calendar.html
   created: 2026-04-30
   updated: 2026-05-01
   tags: [computing]
-
 - title: "Why AI Won't Kill CS 101"
   url: /posts/why-ai-wont-kill-cs-101.html
   created: 2026-03-12
   tags: [education]
-
 - title: "Why you still need to learn even when AI can do anything"
   url: /posts/why-you-still-need-to-learn-even-when-ai-can-do-anything.html
   created: 2026-03-02
   tags: [education]
-
+- title: "Making “work” work better for me"
+  url: /posts/making-work-work-better-for-me.html
+  created: 2026-03-02
+  tags: [life-reflection]
+- title: "Choose without suffering (and with gratitude)"
+  url: /posts/choose-without-suffering-and-with-gratitude.html
+  created: 2026-02-24
+  tags: [life-reflection]
 - title: "On impact, and joy"
   url: /posts/on-impact-and-joy.html
   created: 2026-02-23
   tags: [life-reflection]
-
+- title: "A Gypsy’s Prayer"
+  url: /posts/a-gypsys-prayer.html
+  created: 2025-10-08
+  tags: [life-reflection]
 - title: "Improving RAG Performance"
   url: /posts/improving-rag-performance.html
   created: 2025-09-10
-  tags: [computing, llm]
+  tags: [computing]
+- title: "Sabbatical 3-month update"
+  url: /posts/sabbatical-3-month-update.html
+  created: 2024-12-31
+  tags: [life-reflection]
+- title: "Figuring out what to do with my “career”"
+  url: /posts/figuring-out-what-to-do-with-my-career.html
+  created: 2024-10-14
+  tags: [life-reflection]
+- title: "New work mindset at Snowflake❄️"
+  url: /posts/new-work-mindset-at-snowflake.html
+  created: 2022-04-27
+  tags: [life-reflection]
+- title: "Why I quit Google (the second time)❄️"
+  url: /posts/why-i-quit-google-the-second-time.html
+  created: 2022-04-24
+  tags: [life-reflection]
+- title: "How I spend my time"
+  url: /posts/how-i-spend-my-time.html
+  created: 2022-04-18
+  tags: [life-reflection]

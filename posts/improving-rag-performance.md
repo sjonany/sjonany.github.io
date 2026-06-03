@@ -1,7 +1,7 @@
 # Improving RAG Performance
 *Published 2025-09-10*
 
-*Tags: [#computing](/tags/computing.html), [#llm](/tags/llm.html)*
+*Tags: [#computing](/tags/computing.html)*
 
 **TL;DR.** Read how [Anthropic did it](https://www.anthropic.com/news/contextual-retrieval), and for more tips, read Chapter 6 of the [AI engineering book](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302). I’m just condensing tips that I’ll personally use.
 

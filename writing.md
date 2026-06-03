@@ -22,16 +22,8 @@ These live on other platforms (not yet mirrored to this site).
 ### Life reflection
 - [Mindset](https://dynalist.io/d/IfWvgrSkDIZuFvikXF9Z_1_V)
 - [Computational kindness (talk)](https://www.youtube.com/watch?v=0OCmHuxWkks)
-- [Choose without suffering (and with gratitude)](https://medium.com/@sjonany/choose-without-suffering-and-with-gratitude-88b8af25fe10)
-- [On spirituality](https://medium.com/@sjonany/a-gypsys-prayer-b5b977547ec2)
 - [On being value-oriented](https://medium.com/@sjonany/on-being-value-oriented-42342c5f9463)
-- [How I spend my time](https://medium.com/@sjonany/how-i-spend-my-time-aba6bdc3388)
 - [Focus on the undervalued](https://medium.com/@sjonany/monthly-learning-may-2025-focusing-on-the-undervalued-llm-correctness-music-production-e37028eaed37)
-- [Work happiness](https://medium.com/@sjonany/work-happiness-024029eea840)
-- [Figuring out what to do with my “career”](https://medium.com/@sjonany/figuring-out-what-to-do-with-my-career-d4fdb547a132)
-- [Why I quit Google (the second time)❄️](https://medium.com/@sjonany/why-i-quit-google-the-second-time-%EF%B8%8F-f7a0a383f4ca)
-- [New work mindset at Snowflake❄️](https://medium.com/@sjonany/new-work-mindset-at-snowflake-%EF%B8%8F-1346f0fa6edc)
-- [Sabbatical 3-month update](https://medium.com/@sjonany/sabbatical-3-month-update-aacc0a37c6ae)
 
 ### Book notes
 - More on [medium](https://medium.com/@sjonany)
