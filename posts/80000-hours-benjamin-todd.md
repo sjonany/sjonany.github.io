@@ -1,6 +1,8 @@
 # 80,000 Hours - Benjamin Todd [Book notes]
 *Published 2026-05-31*
 
+*Tags: [#book-notes](/tags/book-notes.html)*
+
 ## TL;DR
 To find a fulfilling career, get good at skills that help others. Passion will then follow, not the other way around. The book then has many superb resources on [decision making](https://80000hours.org/career-decision/article/), [being a more effective human being](https://80000hours.org/career-guide/how-to-be-successful/), and [finding a job](https://80000hours.org/career-guide/how-to-get-a-job/). I'll definitely be referring to this book's checklist when I have to find a job again someday. 
 

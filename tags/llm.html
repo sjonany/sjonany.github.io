@@ -1,0 +1,12 @@
+---
+layout: default
+title: "Tag: llm"
+tag: llm
+---
+
+<h1>Posts tagged <code>#{{ page.tag }}</code></h1>
+
+{% assign tagged = site.data.posts | where_exp: "p", "p.tags contains page.tag" | sort: "created" | reverse %}
+{% include post_list.html posts=tagged %}
+
+<p><a href="/writing.html">← All writing</a></p>

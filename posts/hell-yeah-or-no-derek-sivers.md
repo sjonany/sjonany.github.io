@@ -1,6 +1,8 @@
 # Hell Yeah or No - Derek Sivers [Book notes]
 *Published 2026-05-06*
 
+*Tags: [#book-notes](/tags/book-notes.html)*
+
 ### TL;DR
 Useful mindsets to consider when figuring out what to work on in life. If it's a "hell yeah", then dive right in. No need to have remorse about the alternatives -- your life is long enough to have more of these rarer "hell yeah"'s.
 ### Applicable to me

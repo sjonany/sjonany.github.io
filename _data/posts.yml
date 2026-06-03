@@ -1,0 +1,64 @@
+# Single source of truth for local posts (the files in /posts).
+# writing.md and the /tags/*.html pages are generated from this list via Liquid.
+# To add a post: drop the file in /posts, then add an entry here (newest anywhere;
+# the views sort by `created` descending). If you introduce a brand-new tag,
+# also create a stub at tags/<tag>.html (copy an existing one and change `tag:`).
+#
+# Fields: title, url, created (YYYY-MM-DD), updated (optional), tags (list)
+
+- title: "80,000 Hours - Benjamin Todd"
+  url: /posts/80000-hours-benjamin-todd.html
+  created: 2026-05-31
+  tags: [book-notes]
+
+- title: "Transitioning to teaching"
+  url: /posts/transitioning-to-teaching.html
+  created: 2026-05-29
+  tags: [education]
+
+- title: "A World Without Work - Daniel Susskind"
+  url: /posts/a-world-without-work-daniel-susskind.html
+  created: 2026-05-23
+  tags: [book-notes]
+
+- title: "A CS student's job hunt in 2026: an honest playbook"
+  url: /posts/a-cs-students-job-hunt-in-2026-an-honest-playbook.html
+  created: 2026-05-20
+  updated: 2026-05-31
+  tags: [education]
+
+- title: "Why we need in-person exams"
+  url: /posts/why-we-need-in-person-exams.html
+  created: 2026-05-17
+  tags: [education]
+
+- title: "Hell Yeah or No - Derek Sivers"
+  url: /posts/hell-yeah-or-no-derek-sivers.html
+  created: 2026-05-06
+  tags: [book-notes]
+
+- title: "Declarative Calendar"
+  url: /posts/declarative-calendar.html
+  created: 2026-04-30
+  updated: 2026-05-01
+  tags: [computing]
+
+- title: "Why AI Won't Kill CS 101"
+  url: /posts/why-ai-wont-kill-cs-101.html
+  created: 2026-03-12
+  tags: [education]
+
+- title: "Why you still need to learn even when AI can do anything"
+  url: /posts/why-you-still-need-to-learn-even-when-ai-can-do-anything.html
+  created: 2026-03-02
+  tags: [education]
+
+- title: "On impact, and joy"
+  url: /posts/on-impact-and-joy.html
+  created: 2026-02-23
+  tags: [life-reflection]
+
+- title: "Improving RAG Performance"
+  url: /posts/improving-rag-performance.html
+  created: 2025-09-10
+  tags: [computing, llm]

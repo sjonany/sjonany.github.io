@@ -1,6 +1,8 @@
 # Transitioning to teaching
 *Published 2026-05-29*
 
+*Tags: [#education](/tags/education.html)*
+
 I recently wrapped up my time as a software engineer at a startup, and got into a new adventure ... teaching! 
 I'll be teaching [CS 442: Algorithm Design and Analysis course](https://www.edmonds.edu/programs-and-degrees/areas-of-study/information-technology/computer-science/course-descriptions.html)  at Edmonds College this fall, and am stoked about it.
 

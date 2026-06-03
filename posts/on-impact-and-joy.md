@@ -1,6 +1,8 @@
 # On impact, and joy
 *Published 2026-02-23*
 
+*Tags: [#life-reflection](/tags/life-reflection.html)*
+
 There were times in my life when I choose to work on things that are **“impactful”.** I wonder how much of that is **status-seeking**, rather than me really believing and **feeling** inspired to work on the problem.
 
 A recent reading from [Alexey Guzey](https://guzey.com/impact/) touched on this point wonderfully.

@@ -1,0 +1,12 @@
+# Jekyll local build artifacts
+_site/
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+vendor/
+Gemfile.lock
+
+# Local-only Jekyll preview files. Production (GitHub Pages) auto-injects an
+# equivalent config, so we keep these out of the repo to leave the live site as-is.
+_config.yml
+Gemfile

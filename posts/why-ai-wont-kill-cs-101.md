@@ -1,6 +1,8 @@
 # Why AI Won't Kill CS 101
 *Published 2026-03-12*
 
+*Tags: [#education](/tags/education.html)*
+
 Q: Should we still teach CS freshmen how to code in Python even when we reach a stage where AI can do the coding for them?
 
 A: Yes, because coding is an effective learning mechanism to learn about computing concepts, and we need this literacy to navigate some nuanced trade-offs of complex real-world systems.

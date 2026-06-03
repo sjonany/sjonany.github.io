@@ -1,6 +1,8 @@
 # Improving RAG Performance
 *Published 2025-09-10*
 
+*Tags: [#computing](/tags/computing.html), [#llm](/tags/llm.html)*
+
 **TL;DR.** Read how [Anthropic did it](https://www.anthropic.com/news/contextual-retrieval), and for more tips, read Chapter 6 of the [AI engineering book](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302). I’m just condensing tips that I’ll personally use.
 
 I have been looking into various RAG resources, from Llama Index CEO [1], Anthropic [2] and this O’Reilly AI engineering book [3]. Here are the various ways you can improve your RAG pipeline. I organize them in the order in which I would personally try them, by weighing the foreseen benefit and the implementation and monetary cost.

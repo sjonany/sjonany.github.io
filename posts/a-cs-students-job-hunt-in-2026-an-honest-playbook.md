@@ -1,6 +1,8 @@
 # A CS student's job hunt in 2026: an honest playbook
 *Published 2026-05-20, Updated 2026-05-31*
 
+*Tags: [#education](/tags/education.html)*
+
 It's harder to get hired as a junior engineer now than ever. There is lower demand (for juniors, but not necessarily for senior engineers) and more supply (i.e. competition). Cite: [LinkedIn Jan 2026](https://economicgraph.linkedin.com/content/dam/me/economicgraph/en-us/PDF/linkedIn-labor-market-report-building-a-future-of-work-that-works-jan-2026.pdf): 
 > Record Computer Science (CS) colliding with a cooling hiring for entry-level software engineers (SWE).
 

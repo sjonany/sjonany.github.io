@@ -1,0 +1,41 @@
+{%- comment -%}
+Renders a blog-style list of posts. Pass an already-sorted list:
+  {% include post_list.html posts=somelist %}
+Each item needs: title, url, created.
+The snippet is auto-extracted from the live post: everything after the "*Tags:*"
+byline (raw markdown), rendered and stripped to plain text, then truncated.
+No manual excerpts needed.
+{%- endcomment -%}
+<style>
+.post-entry { margin: 1.75rem 0; }
+.post-head { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; }
+.post-head h2 { margin: 0; border: 0; }
+.post-date { color: #6a737d; font-style: italic; white-space: nowrap; }
+.post-snippet { margin: .4rem 0 0; color: #24292f; }
+.post-more { white-space: nowrap; }
+</style>
+{%- assign nl = "
+" -%}
+{%- for p in include.posts -%}
+  {%- assign pg = site.pages | where: "url", p.url | first -%}
+  {%- assign lines = pg.content | newline_to_br | split: "<br />" -%}
+  {%- assign found = -1 -%}
+  {%- for line in lines -%}
+    {%- if found == -1 and line contains "Tags:" -%}{%- assign found = forloop.index0 -%}{%- endif -%}
+  {%- endfor -%}
+  {%- assign snippet = "" -%}
+  {%- if found > -1 -%}
+    {%- assign start = found | plus: 1 -%}
+    {%- assign after = lines | slice: start, 999 | join: nl -%}
+    {%- assign snippet = after | markdownify | replace: "<", " <" | strip_html | strip_newlines | truncatewords: 40, "" -%}
+  {%- endif -%}
+  <div class="post-entry">
+    <div class="post-head">
+      <h2 class="post-title"><a href="{{ p.url }}">{{ p.title }}</a></h2>
+      <span class="post-date">{{ p.created | date: "%B %-d, %Y" }}</span>
+    </div>
+    {%- if snippet != "" %}
+    <p class="post-snippet">{{ snippet }} <a class="post-more" href="{{ p.url }}">more...</a></p>
+    {%- endif -%}
+  </div>
+{%- endfor -%}

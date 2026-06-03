@@ -1,6 +1,8 @@
 # A World Without Work - Daniel Susskind [Book notes]
 *Published 2026-05-23*
 
+*Tags: [#book-notes](/tags/book-notes.html)*
+
 ## TL;DR
 Because of technological progress, we are seeing a trend where we will likely have less and less work available for humans. Within this trend, there are problems of inequality of wealth, unregulated power of big tech, and loss of meaning. The proposed solutions are to have the big state intervene - through providing conditional basic income, regulating the political power of big tech (not just economic power), and providing meaningful unpaid work to society. 
 
