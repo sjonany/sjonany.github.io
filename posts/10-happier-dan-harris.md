@@ -82,4 +82,5 @@ Happiness is a skill to see the self and reality as they are. Work your thought-
 
 **Mysterious void.** In the Buddhist view, you can’t control what comes up in your head; it all arises out of a mysterious void.
 
-*Comment via: [medium](https://medium.com/p/355e86c39370), [substack](TODO: fill in link), [linkedin](TODO: fill in link)*
+*Comment via: [medium](https://medium.com/p/355e86c39370), [substack](https://substack.com/profile/122049792-stephen-jonany/note/c-270582847?r=20ny80&utm_source=notes-share-action&utm_medium=web), [linkedin](https://www.linkedin.com/posts/stephen-jonany-81b89429_as-the-buddhists-liked-to-point-out-everyone-share-7468342383550808065-Wr2Q/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAYA6JcBfYvkbRDQays8kygBlQZXKwslAiU)*
+
