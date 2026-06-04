@@ -6,6 +6,10 @@
 #
 # Fields: title, url, created (YYYY-MM-DD), updated (optional), tags (list)
 
+- title: "10% Happier - Dan Harris"
+  url: /posts/10-happier-dan-harris.html
+  created: 2026-06-04
+  tags: [book-notes]
 - title: "80,000 Hours - Benjamin Todd"
   url: /posts/80000-hours-benjamin-todd.html
   created: 2026-05-31
