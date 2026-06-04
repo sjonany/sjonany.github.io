@@ -1,0 +1,59 @@
+{% comment %}
+  Pure-Liquid table of contents (no plugins -> works on GitHub Pages).
+
+  Builds a nested list from the <h2>/<h3> headings in `include.html` (the
+  rendered post HTML), linking to the `id` anchors kramdown already generates
+  on every heading. The post-title <h1> and deeper levels are ignored.
+
+  Usage (from a layout): {% include toc.html html=content %}
+
+  Implementation notes:
+  - Splitting the HTML on '<h' yields one fragment per heading. '</h2>' etc.
+    are NOT matched (they start with '</h', not '<h'), so each fragment is
+    `<level> ...attrs...>text</hN>...body-until-next-heading`.
+  - `_headBlock` isolates just the opening tag + text (`2 id="x">Text`) so the
+    id is read from the heading itself, never from body content after it.
+  - Heading text is recovered by re-wrapping the block as an element and using
+    strip_html, so inline markup inside a heading (code/em) degrades cleanly.
+{% endcomment %}
+
+{% assign _frags = include.html | split: '<h' %}
+{% assign _items = '' %}
+{% assign _open2 = false %}
+{% assign _open3 = false %}
+{% assign _count = 0 %}
+
+{% for _frag in _frags %}
+  {% assign _lvl = _frag | slice: 0, 1 %}
+  {% unless _lvl == '2' or _lvl == '3' %}{% continue %}{% endunless %}
+
+  {% assign _headBlock = _frag | split: '</h' | first %}
+  {% unless _headBlock contains 'id="' %}{% continue %}{% endunless %}
+
+  {% assign _id = _headBlock | split: 'id="' | last | split: '"' | first %}
+  {% capture _el %}<h{{ _headBlock }}</h>{% endcapture %}
+  {% assign _text = _el | strip_html | strip %}
+  {% assign _count = _count | plus: 1 %}
+
+  {% if _lvl == '2' %}
+    {% if _open3 %}{% assign _items = _items | append: '</ul>' %}{% assign _open3 = false %}{% endif %}
+    {% if _open2 %}{% assign _items = _items | append: '</li>' %}{% endif %}
+    {% capture _li %}<li><a href="#{{ _id }}">{{ _text }}</a>{% endcapture %}
+    {% assign _items = _items | append: _li %}
+    {% assign _open2 = true %}
+  {% else %}
+    {% unless _open3 %}{% assign _items = _items | append: '<ul>' %}{% assign _open3 = true %}{% endunless %}
+    {% capture _li %}<li><a href="#{{ _id }}">{{ _text }}</a></li>{% endcapture %}
+    {% assign _items = _items | append: _li %}
+  {% endif %}
+{% endfor %}
+
+{% if _open3 %}{% assign _items = _items | append: '</ul>' %}{% endif %}
+{% if _open2 %}{% assign _items = _items | append: '</li>' %}{% endif %}
+
+{% if _count > 0 %}
+<details class="toc" open>
+  <summary>Contents</summary>
+  <ul>{{ _items }}</ul>
+</details>
+{% endif %}

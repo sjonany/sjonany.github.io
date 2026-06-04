@@ -20,6 +20,11 @@
       <p class="f5 mb-4"><a href="{{ "/" | absolute_url }}">Home</a></p>
       {% endif %}
 
+      {% comment %} Auto table of contents on post pages only. {% endcomment %}
+      {% if page.url contains "/posts/" %}
+      {% include toc.html html=content %}
+      {% endif %}
+
       {{ content }}
 
       {% if site.github.private != true and site.github.license %}

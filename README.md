@@ -1,3 +1,4 @@
+# About Me
 Software engineer -> [Educator](https://sjonany.github.io/posts/transitioning-to-teaching.html). Amateur musician. Boulderer. Anime + video game enjoyer.
 <img src="https://cdn3.emoji.gg/emojis/85511-kirbyruns.gif" alt="Alt Text" width="50" height="50">
 

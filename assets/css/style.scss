@@ -14,3 +14,22 @@
 .markdown-body h3 {
   color: #0366d6;
 }
+
+// Auto table of contents (see _includes/toc.html), shown on post pages.
+// A light bordered box; nested h3 links indent under their h2.
+.markdown-body .toc {
+  font-size: 14px;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  padding: 8px 16px;
+  margin-bottom: 24px;
+  background-color: #f6f8fa;
+}
+.markdown-body .toc summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+.markdown-body .toc ul {
+  margin-top: 8px;
+  margin-bottom: 4px;
+}
