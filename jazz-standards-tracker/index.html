@@ -1,0 +1,354 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jazz Standards Tracker</title>
+<style>
+  :root {
+    --background: #1A0B2E;
+    --surface-low: #231437;
+    --surface-high: #322346;
+    --teal: #00DFC1;
+    --gold: #EBD22D;
+    --on-surface: #EDDCFF;
+    --on-surface-variant: #B9CAC4;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--background);
+    color: var(--on-surface);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* ── Hero ── */
+  .hero {
+    text-align: center;
+    padding: 64px 24px 48px;
+  }
+
+  .hero-icon {
+    width: 96px;
+    height: 96px;
+    border-radius: 22px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 32px rgba(0, 223, 193, 0.25);
+  }
+
+  .hero h1 {
+    color: var(--teal);
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    margin: 0 0 12px;
+  }
+
+  .hero p {
+    color: var(--on-surface-variant);
+    font-size: 16px;
+    line-height: 1.6;
+    max-width: 480px;
+    margin: 0 auto 32px;
+  }
+
+  .btn-primary {
+    display: inline-block;
+    background: var(--teal);
+    color: #0A0618;
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: 0.4px;
+    text-decoration: none;
+    padding: 14px 32px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.15s;
+  }
+
+  .btn-primary:hover { opacity: 0.85; }
+
+  /* ── Modal ── */
+  .modal-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.65);
+    z-index: 100;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .modal-overlay.open { display: flex; }
+
+  .modal {
+    background: var(--surface-low);
+    border: 1px solid var(--surface-high);
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 380px;
+    width: calc(100% - 48px);
+    position: relative;
+    text-align: left;
+  }
+
+  .modal h3 {
+    color: var(--teal);
+    font-size: 17px;
+    margin: 0 0 20px;
+  }
+
+  .modal-steps {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .modal-step {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    font-size: 14px;
+    color: var(--on-surface-variant);
+    line-height: 1.5;
+  }
+
+  .step-num {
+    background: var(--teal);
+    color: #0A0618;
+    font-weight: 700;
+    font-size: 12px;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+
+  .modal-step a {
+    color: var(--teal);
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .modal-step a:hover { text-decoration: underline; }
+
+  .modal-close {
+    position: absolute;
+    top: 14px;
+    right: 18px;
+    background: none;
+    border: none;
+    color: var(--on-surface-variant);
+    font-size: 20px;
+    cursor: pointer;
+    line-height: 1;
+    padding: 4px;
+  }
+
+  .modal-close:hover { color: var(--on-surface); }
+
+  /* ── Screenshots ── */
+  .screenshots {
+    padding: 48px 24px;
+    background: var(--surface-low);
+  }
+
+  .section-label {
+    text-align: center;
+    color: var(--teal);
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    margin-bottom: 32px;
+  }
+
+  .screenshot-row {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+
+  .screenshot-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .screenshot-item img {
+    width: 360px;
+    display: block;
+    border-radius: 8px;
+    border: 1px solid var(--surface-high);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+  }
+
+  .screenshot-caption {
+    color: var(--on-surface-variant);
+    font-size: 12px;
+    text-align: center;
+    max-width: 160px;
+    line-height: 1.4;
+  }
+
+  /* ── Features ── */
+  .features {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 56px 24px;
+  }
+
+  .features h2 {
+    color: var(--teal);
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    margin-bottom: 28px;
+    text-align: center;
+  }
+
+  .feature-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .feature-list li {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    color: var(--on-surface-variant);
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  .feature-icon {
+    font-size: 18px;
+    flex-shrink: 0;
+    margin-top: 1px;
+    width: 22px;
+    text-align: center;
+  }
+
+  .feature-list strong {
+    color: var(--on-surface);
+  }
+
+  /* ── Footer ── */
+  footer {
+    border-top: 1px solid var(--surface-high);
+    text-align: center;
+    padding: 28px 24px;
+    color: var(--on-surface-variant);
+    font-size: 13px;
+  }
+
+  footer a {
+    color: var(--teal);
+    text-decoration: none;
+  }
+
+  footer a:hover { text-decoration: underline; }
+
+  footer .sep {
+    margin: 0 10px;
+    opacity: 0.4;
+  }
+</style>
+</head>
+<body>
+
+  <!-- Hero -->
+  <section class="hero">
+    <img class="hero-icon" src="assets/app_icon_512.png" alt="Jazz Standards Tracker icon">
+    <h1>Jazz Standards Tracker</h1>
+    <p>Track your progress to mastering your first 100 <a href="song-list.html" style="color:var(--teal);">jazz standards</a> from the Real Book.</p>
+    <button class="btn-primary" onclick="document.getElementById('install-modal').classList.add('open')">Get it on Google Play</button>
+
+  <!-- Install modal -->
+  <div id="install-modal" class="modal-overlay" onclick="if(event.target===this)this.classList.remove('open')">
+    <div class="modal">
+      <button class="modal-close" onclick="document.getElementById('install-modal').classList.remove('open')">&times;</button>
+      <h3>Get the app</h3>
+      <div class="modal-steps">
+        <div class="modal-step">
+          <span class="step-num">1</span>
+          <span><a href="https://groups.google.com/g/jazz-standards-tracker-tester" target="_blank" rel="noopener noreferrer">Join the tester group</a> to get whitelisted on Google Play.</span>
+        </div>
+        <div class="modal-step">
+          <span class="step-num">2</span>
+          <span><a href="https://play.google.com/apps/testing/com.sjonany.realbooktracker" target="_blank" rel="noopener noreferrer">Download the app</a> from the Google Play testing page.</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  </section>
+
+  <!-- Screenshots -->
+  <section class="screenshots">
+    <p class="section-label">See it in action</p>
+    <div class="screenshot-row">
+      <div class="screenshot-item">
+        <img src="assets/03_all_songs.png" alt="Browse 1,400+ jazz standards">
+        <span class="screenshot-caption">1,400+ standards at your fingertips</span>
+      </div>
+      <div class="screenshot-item">
+        <img src="assets/02_edit_song.png" alt="Track details for each song">
+        <span class="screenshot-caption">Log recordings, notes &amp; last played date</span>
+      </div>
+      <div class="screenshot-item">
+        <img src="assets/05_settings_progress.png" alt="Progress stats">
+        <span class="screenshot-caption">Watch your repertoire grow</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Features -->
+  <section class="features">
+    <h2>What's inside</h2>
+    <ul class="feature-list">
+      <li>
+        <span class="feature-icon">🏆</span>
+        <span><strong>Curated Top 100 list</strong> — start from the most essential jazz standards<br>
+          <span style="font-size:13px;">Curated from <a href="https://www.hopestreetmusicstudios.com/articles/100-must-know-jazz-tunes" target="_blank" rel="noopener noreferrer" style="color:var(--teal);">Hope Street Music Studios</a> and iReal Pro's Jazz 1460 standards.</span>
+        </span>
+      </li>
+      <li>
+        <span class="feature-icon">🎵</span>
+        <span><strong>Attach your own recordings</strong> — link references for each tune for quick review</span>
+      </li>
+      <li>
+        <span class="feature-icon">📤</span>
+        <span><strong>Import &amp; export</strong> — back up and restore your progress as a CSV</span>
+      </li>
+      <li>
+        <span class="feature-icon">✅</span>
+        <span><strong>No accounts. No ads. No subscriptions.</strong></span>
+      </li>
+    </ul>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <a href="privacy-policy.html">Privacy Policy</a>
+    <span class="sep">·</span>
+    <span>&copy; 2026 Stephen Jonany</span>
+  </footer>
+
+</body>
+</html>

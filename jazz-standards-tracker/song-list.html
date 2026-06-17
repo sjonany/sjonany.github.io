@@ -1,0 +1,227 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jazz Repertoire</title>
+<style>
+  :root {
+    --background: #1A0B2E;
+    --surface-low: #231437;
+    --surface-high: #322346;
+    --teal: #00DFC1;
+    --gold: #EBD22D;
+    --on-surface: #EDDCFF;
+    --on-surface-variant: #B9CAC4;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--background);
+    color: var(--on-surface);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 40px 24px 80px;
+  }
+
+  h1 {
+    color: var(--teal);
+    font-size: 28px;
+    letter-spacing: 0.5px;
+    margin-bottom: 8px;
+  }
+
+  .intro {
+    color: var(--on-surface-variant);
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 24px;
+  }
+
+  .intro a {
+    color: var(--teal);
+    text-decoration: none;
+  }
+
+  .intro a:hover {
+    text-decoration: underline;
+  }
+
+  #stats {
+    display: inline-block;
+    color: var(--gold);
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    background: var(--surface-low);
+    border: 1px solid var(--surface-high);
+    border-radius: 8px;
+    padding: 8px 14px;
+    margin-bottom: 28px;
+  }
+
+  ul#song-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid var(--surface-high);
+  }
+
+  ul#song-list li {
+    padding: 12px 4px;
+    border-bottom: 1px solid var(--surface-high);
+    font-size: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 6px;
+  }
+
+  ul#song-list li a {
+    color: var(--teal);
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  ul#song-list li a:hover {
+    text-decoration: underline;
+  }
+
+  ul#song-list li span.title {
+    color: var(--on-surface);
+    font-weight: 600;
+  }
+
+  ul#song-list li span.author {
+    color: var(--on-surface-variant);
+    font-size: 13px;
+  }
+
+  .mic {
+    font-size: 12px;
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+    <h1>Jazz Repertoire</h1>
+    <p class="intro">
+      This list is maintained through
+      <a href="index.html">Jazz Standards Tracker</a>.
+    </p>
+    <div id="stats">Loading…</div>
+    <ul id="song-list"></ul>
+  </div>
+
+  <script>
+    function parseCSV(text) {
+      const rows = [];
+      let row = [];
+      let field = '';
+      let inQuotes = false;
+      for (let i = 0; i < text.length; i++) {
+        const c = text[i];
+        if (inQuotes) {
+          if (c === '"') {
+            if (text[i + 1] === '"') { field += '"'; i++; }
+            else { inQuotes = false; }
+          } else {
+            field += c;
+          }
+        } else {
+          if (c === '"') {
+            inQuotes = true;
+          } else if (c === ',') {
+            row.push(field);
+            field = '';
+          } else if (c === '\n' || c === '\r') {
+            if (c === '\r' && text[i + 1] === '\n') i++;
+            row.push(field);
+            rows.push(row);
+            row = [];
+            field = '';
+          } else {
+            field += c;
+          }
+        }
+      }
+      if (field.length > 0 || row.length > 0) {
+        row.push(field);
+        rows.push(row);
+      }
+      return rows.filter(r => r.length > 1 || (r.length === 1 && r[0] !== ''));
+    }
+
+    function rowsToObjects(rows) {
+      const header = rows[0];
+      return rows.slice(1).map(r => {
+        const obj = {};
+        header.forEach((h, i) => obj[h] = (r[i] ?? '').trim());
+        return obj;
+      });
+    }
+
+    async function main() {
+      const res = await fetch('jazz_tracker_backup.csv');
+      if (!res.ok) throw new Error('Failed to fetch CSV: ' + res.status);
+      const text = await res.text();
+      const data = rowsToObjects(parseCSV(text));
+
+      const played = data.filter(s => s.last_played_time !== '');
+      const withRecording = played.filter(s => s.my_recording_url !== '');
+
+      document.getElementById('stats').textContent =
+        `${played.length} songs played · ${withRecording.length} with my own recording`;
+
+      played.sort((a, b) => a.title.localeCompare(b.title));
+
+      const list = document.getElementById('song-list');
+      const frag = document.createDocumentFragment();
+      played.forEach(s => {
+        const li = document.createElement('li');
+
+        if (s.my_recording_url) {
+          const a = document.createElement('a');
+          a.href = s.my_recording_url;
+          a.target = '_blank';
+          a.rel = 'noopener noreferrer';
+          a.textContent = s.title;
+          li.appendChild(a);
+          const mic = document.createElement('span');
+          mic.className = 'mic';
+          mic.textContent = '🎙️';
+          li.appendChild(mic);
+        } else {
+          const span = document.createElement('span');
+          span.className = 'title';
+          span.textContent = s.title;
+          li.appendChild(span);
+        }
+
+        const author = document.createElement('span');
+        author.className = 'author';
+        author.textContent = `— ${s.author}`;
+        li.appendChild(author);
+
+        frag.appendChild(li);
+      });
+      list.appendChild(frag);
+    }
+
+    main().catch(err => {
+      document.getElementById('stats').textContent = 'Failed to load song data.';
+      console.error(err);
+    });
+  </script>
+</body>
+</html>
