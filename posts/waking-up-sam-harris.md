@@ -146,4 +146,4 @@ I'm not sure if I'm doing this right. There are at least three flavors, and I'm 
 2. **Flow.** The other one is if I'm doing a flowy activity (e.g. bouldering), but that also felt like I'm deeply immersed in.. something, not fully aware of "the bigger picture". 
 3. **Meditation.** Maybe this is the one that Harris was referring to. When a meditation app tells you to gaze around the room with a soft focus, and focus on your visual, audio, and tactile senses.
 
-*Comment via: [medium](TODO: fill in link), [substack](TODO: fill in link), [linkedin](TODO: fill in link)*
+*Comment via: [medium](https://medium.com/p/fed1176c1261), [substack](https://substack.com/profile/122049792-stephen-jonany/note/c-278717945), [linkedin](https://www.linkedin.com/posts/stephen-jonany-81b89429_just-finished-sam-harris-book-waking-up-share-7473468518005514240-gfIV/)*
