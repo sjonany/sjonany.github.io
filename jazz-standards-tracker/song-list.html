@@ -172,7 +172,7 @@ layout: null
     }
 
     async function main() {
-      const res = await fetch('jazz_tracker_backup.csv');
+      const res = await fetch('jazz_tracker_backup.csv', { cache: 'no-store' });
       if (!res.ok) throw new Error('Failed to fetch CSV: ' + res.status);
       const text = await res.text();
       const data = rowsToObjects(parseCSV(text));
