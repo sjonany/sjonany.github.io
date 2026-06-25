@@ -6,6 +6,10 @@
 #
 # Fields: title, url, created (YYYY-MM-DD), updated (optional), tags (list)
 
+- title: "Mental Models in Your Brain, or the AI's?"
+  url: /posts/mental-models-in-your-brain-or-the-ais.html
+  created: 2026-06-25
+  tags: [education]
 - title: "Waking Up - Sam Harris"
   url: /posts/waking-up-sam-harris.html
   created: 2026-06-18
