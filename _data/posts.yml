@@ -6,6 +6,10 @@
 #
 # Fields: title, url, created (YYYY-MM-DD), updated (optional), tags (list)
 
+- title: "How to build mental models for CS concepts"
+  url: /posts/how-to-build-mental-models-for-cs-concepts.html
+  created: 2026-06-30
+  tags: [education]
 - title: "Mental Models in Your Brain, or the AI's?"
   url: /posts/mental-models-in-your-brain-or-the-ais.html
   created: 2026-06-25
