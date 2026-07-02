@@ -52,7 +52,11 @@ Okay, we emphasized that we must be **active** in how we approach our learning. 
 - **Third pass: intuition.** Put a TL;DR section at the top of your note. Give one-liner explanations and visuals of the important concepts.
 - **Practice.** Do a lot of problems. Usually homework and past exams are enough. You should do the thinking on your own first, and only check the solution, or use AI after you're stuck for, say, more than 15 minutes. 
 
-**Instructor.** As an instructor, the job is to create a learning environment that encourages students to go through all the mental processes as mentioned previously, both inside and outside of the classroom. This will be tackled in a future blog post. 
+**Instructor.** As an instructor, my job is to create a learning environment that encourages students to go through all the mental processes mentioned previously, both inside and outside of the classroom. 
+- **Lectures.** The slides should have the schematics explained in the previous section. I'll also have **pauses** where I ask students to discuss some checkpoint questions in pairs in between slides so lecturing isn't just passive reception.
+- **Homework** should expose the students to novel problems so they can test their mental model. I'm also considering asking the students to turn in some kind of hand-written note as mentioned in the "student" section just to encourage good study habits.
+- **Exams, quizzes.** To get the benefit of spaced repetition and interleaving, I would probably have **more than one exam** -- at the very least a midterm and a final -- in addition to **weekly quizzes** that students can retake (see [mastery learning](https://en.wikipedia.org/wiki/Mastery_learning)).
+- **AI.** This will be tackled in a future blog post!
 
 ## What's next?
 In summary, to develop mental models, you need to be able to **actively** reconstruct the material from memory and test it against a **variety** of problems. To retain them, you would revisit the material **at least a week** after you learnt it.
@@ -70,3 +74,4 @@ https://teachtogether.tech/en/
 - The [six strategies](https://teachtogether.tech/en/#s:individual-strategies) section here has a lot of overlap, and a lot more references
 
 *Comment via: [medium](https://medium.com/p/9c0a41571ae6), [substack](https://stephenjonany.substack.com/p/how-to-build-mental-models-for-cs), [linkedin](https://www.linkedin.com/pulse/how-build-mental-models-cs-concepts-stephen-jonany-obcfc/)*
+3
