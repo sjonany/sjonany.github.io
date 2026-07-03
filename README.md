@@ -1,21 +1,15 @@
 # About Me
 Software engineer -> [Educator](https://sjonany.github.io/posts/transitioning-to-teaching.html). Amateur musician. Boulderer. Anime + video game enjoyer.
-<img src="https://cdn3.emoji.gg/emojis/85511-kirbyruns.gif" alt="Alt Text" width="50" height="50">
 
 [Resume](https://docs.google.com/document/d/1z6G0CjMhAkKeqCyggJOCLFiD7IhwnRPKefQbRqXC4DU/edit?tab=t.0)
 
 ### Writing
-I like to think, and write about said thinking.
+I like to think, and write about said thinking [here](writing.md).
 Here are some recent writings:
   - [Mindset](https://dynalist.io/d/IfWvgrSkDIZuFvikXF9Z_1_V)
   - [Computational kindness (talk)](https://www.youtube.com/watch?v=0OCmHuxWkks)
   - [Impact vs joy](posts/on-impact-and-joy.md)
   - [Why you still need to learn even when AI can do anything](posts/why-you-still-need-to-learn-even-when-ai-can-do-anything.md)
-  - [Improving RAG performance](posts/improving-rag-performance.md)
-
-And more [here](writing.md)
-
-I also re-post my writings to these other platforms: [substack](https://stephenjonany.substack.com/), [medium](https://medium.com/@sjonany)
 
 ### Bouldering
 - [Indoor bouldering](https://www.youtube.com/watch?v=7q1eiJ680_U&t=55s) fun with friends
