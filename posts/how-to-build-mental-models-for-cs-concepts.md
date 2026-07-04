@@ -74,4 +74,3 @@ https://teachtogether.tech/en/
 - The [six strategies](https://teachtogether.tech/en/#s:individual-strategies) section here has a lot of overlap, and a lot more references
 
 *Comment via: [medium](https://medium.com/p/9c0a41571ae6), [substack](https://stephenjonany.substack.com/p/how-to-build-mental-models-for-cs), [linkedin](https://www.linkedin.com/pulse/how-build-mental-models-cs-concepts-stephen-jonany-obcfc/)*
-3
