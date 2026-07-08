@@ -6,6 +6,10 @@
 #
 # Fields: title, url, created (YYYY-MM-DD), updated (optional), tags (list)
 
+- title: "Unregulated AI Use Harms Learning"
+  url: /posts/unregulated-ai-use-harms-learning.html
+  created: 2026-07-08
+  tags: [education]
 - title: "How to build mental models for CS concepts"
   url: /posts/how-to-build-mental-models-for-cs-concepts.html
   created: 2026-06-30
