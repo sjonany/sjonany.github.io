@@ -9,7 +9,7 @@ We established previously that even with AI, humans should likely [still need to
 
 Grades should at least partially reflect the students’ ability to compute using the concepts taught in class **without the use of AI**.
 
-**But we have access to AI irl, so why improve unaided ability?** One’s unaided ability still matters, even in the age of AI. This is because some flows — like self-driven brainstorming (where you play around with concepts you have a good grasp of) and conversations with other humans — require that some concepts be [readily computable](why-you-still-need-to-learn-even-when-ai-can-do-anything.md) without going back and forth with AI.
+**But we have access to AI irl, so why improve unaided ability?** One’s unaided ability still matters, even in the age of AI. This is because some flows — like self-driven brainstorming (where you play around with concepts you have a good grasp of) and conversations with other humans — require that some concepts be [readily computable](mental-models-in-your-brain-or-the-ais.md) without going back and forth with AI.
 
 **Aids are more accessible now. Q:** Ok sure, unaided ability is important, but that’s already true pre-AI, so why bring this up now? **A:** Because with AI, the cost of cheating is much lower than in the pre-AI era where you need to have another human to cheat with. You don’t need to incur a social cost — it’s as simple as doing a few keystrokes.
 
