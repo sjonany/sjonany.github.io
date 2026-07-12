@@ -6,6 +6,10 @@
 #
 # Fields: title, url, created (YYYY-MM-DD), updated (optional), tags (list)
 
+- title: "AI-proofing a CS Course"
+  url: /posts/ai-proofing-a-cs-course.html
+  created: 2026-07-11
+  tags: [education]
 - title: "Unregulated AI Use Harms Learning"
   url: /posts/unregulated-ai-use-harms-learning.html
   created: 2026-07-08
