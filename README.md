@@ -16,11 +16,9 @@ Here are some recent writings:
 - [Outdoor bouldering](https://kaya-app.kayaclimb.com/user/mimimi)
 
 ### Music
-- I'm learning jazz. [Here](https://sjonany.github.io/jazz-standards-tracker/song-list.html) is my repertoire so far!
-- I like to make [covers of video game music](https://www.youtube.com/watch?v=iKrX-FXY6YY)
-- I also like to host [video game music jam sessions](https://www.instagram.com/p/DOVHqdoDlxY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
-- Here's a [piano tutorial](https://sjonany.github.io/piano-tutorial/) that I built for my brother
-- I had a [scuffed arrangement](https://www.youtube.com/watch?v=Y5C54k8ovsE) that got popular. I wish my other arrangements are more popular, but the algorithm works in mysterious ways.
+- **Jazz.** I'm taking jazz lessons! [Here](https://sjonany.github.io/jazz-standards-tracker/song-list.html) is my repertoire so far. 
+- **VGM.** I like to make [covers of video game music](https://www.youtube.com/watch?v=iKrX-FXY6YY) and host [VGM jam sessions](https://www.instagram.com/p/DOVHqdoDlxY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+- **Tutorials.** I sometimes make web-based piano tutorials. Here are some: [Bossa nova](https://sjonany.github.io/bossa-nova-tutorial/), [Arpeggio](https://sjonany.github.io/piano-tutorial/).
 
 ### Side projects
 Here are some fun side projects I did in the past:
