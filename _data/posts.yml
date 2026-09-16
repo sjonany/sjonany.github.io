@@ -6,6 +6,10 @@
 #
 # Fields: title, url, created (YYYY-MM-DD), updated (optional), tags (list)
 
+- title: "Reasons to work"
+  url: /posts/reasons-for-working.html
+  created: 2026-09-15
+  tags: [life-reflection]
 - title: "AI-proofing a CS Course"
   url: /posts/ai-proofing-a-cs-course.html
   created: 2026-07-11
