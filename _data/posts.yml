@@ -6,6 +6,10 @@
 #
 # Fields: title, url, created (YYYY-MM-DD), updated (optional), tags (list)
 
+- title: "AI and jobs: not so SiMpLe eCoNoMIcS"
+  url: /posts/ai-and-jobs-not-so-simple-economics.html
+  created: 2026-09-22
+  tags: [life-reflection, computing]
 - title: "Reasons to work"
   url: /posts/reasons-for-working.html
   created: 2026-09-15
