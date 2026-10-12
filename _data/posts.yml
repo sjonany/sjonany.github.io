@@ -6,6 +6,10 @@
 #
 # Fields: title, url, created (YYYY-MM-DD), updated (optional), tags (list)
 
+- title: "Getting your first CS internship as a community college student"
+  url: /posts/getting-your-first-cs-internship-as-a-community-college-student.html
+  created: 2026-10-12
+  tags: [education]
 - title: "What AI Can't Take Away From Me"
   url: /posts/what-ai-cant-take-away-from-me.html
   created: 2026-10-03
