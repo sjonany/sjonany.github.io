@@ -40,7 +40,7 @@ Start **now.**
 
 ### Methodology
 Here is how I got the data to back up the claims above:
-- **Recent alumni highlights.** Green River blog posts: https://greenriverdevs.medium.com/
+- **Recent alumni highlights.** [Green River blog posts](https://greenriverdevs.medium.com/)
 - **LinkedIn post.** Look at recent capstone / graduation posts on LinkedIn ([example](https://www.linkedin.com/feed/update/urn:li:activity:7471485567172530176/)).
 - **LinkedIn search.** Search "green river junior computer science mint" in the people tab. The "mint" filter is important.
 
