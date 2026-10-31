@@ -4,26 +4,145 @@
 @import "jekyll-theme-primer";
 
 // Custom overrides on top of the Primer theme.
+
+// Warm off-white color scheme ("Paper"), replacing Primer's bright white.
+// Exposed as CSS variables so includes (e.g. post_list.html) can reuse them.
+:root {
+  --bg: #faf8f3;        // page background
+  --fg: #2d2a26;        // body text
+  --fg-strong: #1a1815; // bold text, table headers
+  --muted: #77706a;     // dates, footer, blockquotes
+  --heading: #1f5fa8;   // h1-h3
+  --link: #1f5fa8;
+  --border: #e6e0d4;
+  --box: #f2eee5;       // toc, code, table stripes
+  color-scheme: light;
+}
+
+// Dark color scheme ("GitHub Dim"). Used when the reader picks dark with the
+// toggle (data-theme="dark" on <html>, see _layouts/default.html), or when
+// their device is set to dark mode and they haven't picked light.
+@mixin dark-theme {
+  --bg: #22272e;
+  --fg: #adbac7;
+  --fg-strong: #cdd9e5;
+  --muted: #768390;
+  --heading: #6cb6ff;
+  --link: #539bf5;
+  --border: #373e47;
+  --box: #2d333b;
+  color-scheme: dark;
+}
+:root[data-theme="dark"] {
+  @include dark-theme;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    @include dark-theme;
+  }
+}
+
+// Light/dark toggle button, top right of every page.
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.theme-toggle {
+  margin-left: auto;
+  padding: 2px 10px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--fg);
+  background-color: var(--box);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  cursor: pointer;
+}
+.theme-toggle:hover {
+  border-color: var(--link);
+}
+
+html,
+body {
+  background-color: var(--bg);
+  color: var(--fg);
+}
+
+.markdown-body {
+  color: var(--fg);
+}
+.markdown-body a {
+  color: var(--link);
+}
+.markdown-body strong {
+  color: var(--fg-strong);
+}
+.markdown-body hr {
+  background-color: var(--border);
+}
+.markdown-body blockquote {
+  color: var(--muted);
+  border-left-color: var(--border);
+}
+.markdown-body code,
+.markdown-body pre,
+.markdown-body .highlight pre {
+  background-color: var(--box);
+}
+.markdown-body table th,
+.markdown-body table td {
+  border-color: var(--border);
+}
+.markdown-body table th {
+  color: var(--fg-strong);
+}
+.markdown-body table tr {
+  background-color: var(--bg);
+  border-top-color: var(--border);
+}
+.markdown-body table tr:nth-child(2n) {
+  background-color: var(--box);
+}
+.markdown-body img {
+  background-color: transparent;
+}
+
 // Render the top three heading levels (#, ##, ###) in blue instead of the
 // theme's default near-black. Scoped to .markdown-body so it only affects
-// rendered post/page content. h4+ keep the default color.
-//
-// Color: Primer link blue (#0366d6) — same blue as links, chosen on purpose.
+// rendered post/page content. h4+ keep the body text color.
 .markdown-body h1,
 .markdown-body h2,
 .markdown-body h3 {
-  color: #0366d6;
+  color: var(--heading);
+}
+.markdown-body h1,
+.markdown-body h2 {
+  border-bottom-color: var(--border);
+}
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  color: var(--fg-strong);
+}
+
+// Footer ("This site is open source...").
+.markdown-body .footer.text-gray {
+  color: var(--muted) !important;
+}
+.markdown-body .border-top {
+  border-top-color: var(--border) !important;
 }
 
 // Auto table of contents (see _includes/toc.html), shown on post pages.
-// A light bordered box; nested h3 links indent under their h2.
+// A bordered box; nested h3 links indent under their h2.
 .markdown-body .toc {
   font-size: 14px;
-  border: 1px solid #e1e4e8;
+  border: 1px solid var(--border);
   border-radius: 6px;
   padding: 8px 16px;
   margin-bottom: 24px;
-  background-color: #f6f8fa;
+  background-color: var(--box);
 }
 .markdown-body .toc summary {
   cursor: pointer;
