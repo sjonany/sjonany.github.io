@@ -77,9 +77,7 @@ At least we ended with a compromise - we agreed that OpenAI did **not** spend as
 ### Where I stand: Duh, that's loss of control
 The quote from this [post](https://longerramblings.substack.com/p/we-have-been-warned) matches my sentiment -- although I wasn't as combative in front of my friends :) 
 
-```
-Is this enough evidence of “propensity” for you guys? ... If this is a stunt, were Hugging Face in on it? Were law enforcement? What company commits a punishable crime with their own technology _on purpose_, in order to demonstrate that said technology poses a risk to the infrastructure of its own collaborators? 
-```
+> Is this enough evidence of “propensity” for you guys? ... If this is a stunt, were Hugging Face in on it? Were law enforcement? What company commits a punishable crime with their own technology _on purpose_, in order to demonstrate that said technology poses a risk to the infrastructure of its own collaborators?
 
 Even the [ai-as-normal-tech camp](https://www.normaltech.ai/p/the-ai-as-normal-technology-view), who are on the [conservative end](https://x.com/random_walker/status/2100662179900923911?a=woqWSu_0EM-pYthhGck&s=20) on p-doom-like statements, said: "It is clear from the reports that the agents acted in ways that weren’t intended by the evaluators, and we think it is fair to describe the actions of the agent as misalignment."
 
