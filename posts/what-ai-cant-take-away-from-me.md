@@ -1,7 +1,7 @@
 # What AI Can't Take Away From Me
 *Published 2026-10-03*
 
-*Tags: [#life-reflection](/tags/life-reflection.html)*
+*Tags: [#life-reflection](/tags/life-reflection.html), [#ai-general](/tags/ai-general.html)*
 
 Now and then you see news about AI displacing human jobs, and you might wonder "Huh. When AI can do everything I can do, what even is the point of learning or doing anything?" Is this sense of despair warranted? Or are there activities that will remain meaningful to do?
 

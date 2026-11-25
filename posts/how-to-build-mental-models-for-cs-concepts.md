@@ -1,7 +1,7 @@
 # How to build mental models for CS concepts
 *Published 2026-06-30*
 
-*Tags: [#education](/tags/education.html)*
+*Tags: [#education](/tags/education.html), [#ai-general](/tags/ai-general.html)*
 
 We previously argued for the importance of developing [mental models](https://sjonany.github.io/posts/mental-models-in-your-brain-or-the-ais.html). But, **how** does one develop them for computer science concepts like greedy algorithms?
 

@@ -1,7 +1,7 @@
 # Mental Models in Your Brain, or the AI's?
 *Published 2026-06-25*
 
-*Tags: [#education](/tags/education.html)*
+*Tags: [#education](/tags/education.html), [#ai-general](/tags/ai-general.html)*
 
 In a previous [blog post](https://sjonany.github.io/posts/why-you-still-need-to-learn-even-when-ai-can-do-anything.html), we gave a philosophical answer to why we need education even in the age of AI -- to **want** better. Here we give a more practical answer: Because education helps you build **mental models**, and readily-accessible mental models are necessary for you to (1) communicate in real time with other humans (2) steer AI more effectively (3) think more authentic thoughts.
 

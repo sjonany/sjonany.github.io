@@ -6,10 +6,14 @@
 #
 # Fields: title, url, created (YYYY-MM-DD), updated (optional), tags (list)
 
+- title: "You don't have to be a doomer to support pacing AI progress"
+  url: /posts/you-dont-have-to-be-a-doomer-to-support-pacing-ai.html
+  created: 2026-11-25
+  tags: [computing, ai-safety]
 - title: "AI safety dinner conversations"
   url: /posts/ai-safety-dinner-conversations.html
   created: 2026-11-13
-  tags: [computing]
+  tags: [computing, ai-safety]
 - title: "Getting your first CS internship as a community college student"
   url: /posts/getting-your-first-cs-internship-as-a-community-college-student.html
   created: 2026-10-12
@@ -17,11 +21,11 @@
 - title: "What AI Can't Take Away From Me"
   url: /posts/what-ai-cant-take-away-from-me.html
   created: 2026-10-03
-  tags: [life-reflection]
+  tags: [life-reflection, ai-general]
 - title: "AI and jobs: not so SiMpLe eCoNoMIcS"
   url: /posts/ai-and-jobs-not-so-simple-economics.html
   created: 2026-09-22
-  tags: [life-reflection, computing]
+  tags: [life-reflection, ai-general]
 - title: "Reasons to work"
   url: /posts/reasons-for-working.html
   created: 2026-09-15
@@ -29,19 +33,19 @@
 - title: "AI-proofing a CS Course"
   url: /posts/ai-proofing-a-cs-course.html
   created: 2026-07-11
-  tags: [education]
+  tags: [education, ai-general]
 - title: "Unregulated AI Use Harms Learning"
   url: /posts/unregulated-ai-use-harms-learning.html
   created: 2026-07-08
-  tags: [education]
+  tags: [education, ai-general]
 - title: "How to build mental models for CS concepts"
   url: /posts/how-to-build-mental-models-for-cs-concepts.html
   created: 2026-06-30
-  tags: [education]
+  tags: [education, ai-general]
 - title: "Mental Models in Your Brain, or the AI's?"
   url: /posts/mental-models-in-your-brain-or-the-ais.html
   created: 2026-06-25
-  tags: [education]
+  tags: [education, ai-general]
 - title: "Waking Up - Sam Harris"
   url: /posts/waking-up-sam-harris.html
   created: 2026-06-18
@@ -70,7 +74,7 @@
 - title: "Why we need in-person exams"
   url: /posts/why-we-need-in-person-exams.html
   created: 2026-05-17
-  tags: [education]
+  tags: [education, ai-general]
 - title: "Hell Yeah or No - Derek Sivers"
   url: /posts/hell-yeah-or-no-derek-sivers.html
   created: 2026-05-06
@@ -83,11 +87,11 @@
 - title: "Why AI Won't Kill CS 101"
   url: /posts/why-ai-wont-kill-cs-101.html
   created: 2026-03-12
-  tags: [education]
+  tags: [education, ai-general]
 - title: "Why you still need to learn even when AI can do anything"
   url: /posts/why-you-still-need-to-learn-even-when-ai-can-do-anything.html
   created: 2026-03-02
-  tags: [education]
+  tags: [education, ai-general]
 - title: "Making “work” work better for me"
   url: /posts/making-work-work-better-for-me.html
   created: 2026-03-02

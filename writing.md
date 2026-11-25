@@ -7,6 +7,8 @@ title: Writing
 
 My 5 most recent posts. For the full archive, browse by tag below.
 
+I also cross-post on these websites: [Medium](https://medium.com/@sjonany), [Substack](https://substack.com/@stephenjonany), and [LinkedIn](https://www.linkedin.com/in/stephen-jonany-81b89429/).
+
 {% assign recent_posts = site.data.posts | sort: "created" | reverse | slice: 0, 5 %}
 {% include post_list.html posts=recent_posts %}
 

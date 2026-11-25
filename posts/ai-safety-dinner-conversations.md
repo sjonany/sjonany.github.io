@@ -1,7 +1,7 @@
 # AI safety dinner conversations
 *Published 2026-11-13*
 
-*Tags: [#computing](/tags/computing.html)*
+*Tags: [#computing](/tags/computing.html), [#ai-safety](/tags/ai-safety.html)*
 
 I had some conversations about AI safety with friends and family recently, and want to summarize the discussions and my follow-up readings. There were three main claims that were discussed:
 - AI has superhuman intelligence

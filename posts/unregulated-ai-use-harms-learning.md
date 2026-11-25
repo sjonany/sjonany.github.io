@@ -1,7 +1,7 @@
 # Unregulated AI Use Harms Learning
 *Published 2026-07-08*
 
-*Tags: [#education](/tags/education.html)*
+*Tags: [#education](/tags/education.html), [#ai-general](/tags/ai-general.html)*
 
 This post poses a **problem statement**: that a CS course that does not regulate AI usage risks setting up students for failure.
 

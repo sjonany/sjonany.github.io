@@ -1,7 +1,7 @@
 # AI and jobs: not so SiMpLe eCoNoMIcS
 *Published 2026-09-22*
 
-*Tags: [#life-reflection](/tags/life-reflection.html), [#computing](/tags/computing.html)*
+*Tags: [#life-reflection](/tags/life-reflection.html), [#ai-general](/tags/ai-general.html)*
 
 **TL;DR.** When someone tells you "AI will create more jobs because increased productivity will lead to increased demand for labor! It's SiMpLe eCoNoMIcS!", ask them "more employment for whom? AI or humans?"
 

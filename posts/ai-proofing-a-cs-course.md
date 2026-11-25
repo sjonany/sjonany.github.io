@@ -1,7 +1,7 @@
 # AI-proofing a CS Course
 *Published 2026-07-11*
 
-*Tags: [#education](/tags/education.html)*
+*Tags: [#education](/tags/education.html), [#ai-general](/tags/ai-general.html)*
 
 Unregulated AI usage risks [setting up students for failure](https://sjonany.github.io/posts/unregulated-ai-use-harms-learning.html). But is there anything practical that busy instructors can do beyond writing AI policy documents? In this post, I'll sketch out my personal course structure, then lay out the source materials from the real courses and the literature.
 

@@ -1,7 +1,7 @@
 # Why AI Won't Kill CS 101
 *Published 2026-03-12*
 
-*Tags: [#education](/tags/education.html)*
+*Tags: [#education](/tags/education.html), [#ai-general](/tags/ai-general.html)*
 
 Q: Should we still teach CS freshmen how to code in Python even when we reach a stage where AI can do the coding for them?
 

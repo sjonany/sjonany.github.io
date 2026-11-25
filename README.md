@@ -5,11 +5,8 @@ Software engineer -> [Educator](https://sjonany.github.io/posts/transitioning-to
 
 ### Writing
 I like to think, and write about said thinking [here](writing.md).
-Here are some recent writings:
-  - [Mindset](https://dynalist.io/d/IfWvgrSkDIZuFvikXF9Z_1_V)
-  - [Computational kindness (talk)](https://www.youtube.com/watch?v=0OCmHuxWkks)
-  - [Impact vs joy](posts/on-impact-and-joy.md)
-  - [Why you still need to learn even when AI can do anything](posts/why-you-still-need-to-learn-even-when-ai-can-do-anything.md)
+
+If you want to get a brief taste of my view on life and work, these posts can give you a rough idea: [Mindset](https://dynalist.io/d/IfWvgrSkDIZuFvikXF9Z_1_V), [Computational kindness (talk)](https://www.youtube.com/watch?v=0OCmHuxWkks), [Impact vs joy](posts/on-impact-and-joy.md), [Why you still need to learn even when AI can do anything](posts/why-you-still-need-to-learn-even-when-ai-can-do-anything.md).
 
 ### Bouldering
 - [Indoor bouldering](https://www.youtube.com/watch?v=7q1eiJ680_U&t=55s) fun with friends

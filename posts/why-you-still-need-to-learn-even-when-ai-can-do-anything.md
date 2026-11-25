@@ -1,7 +1,7 @@
 # Why you still need to learn even when AI can do anything
 *Published 2026-03-02*
 
-*Tags: [#education](/tags/education.html)*
+*Tags: [#education](/tags/education.html), [#ai-general](/tags/ai-general.html)*
 
 Suppose we have come to a point where these AI tools can do **anything** you want. Is it still useful for humans to go through the hard work of educating themselves? Or here’s some food for thought: **Q:** Would you want a first-grader with access to an all-powerful-genie to be a nation’s president?
 
